@@ -1,0 +1,11 @@
+{
+  "uuid": "ticktick-pomo@local",
+  "name": "TickTick Pomodoro",
+  "description": "A GNOME Shell Pomodoro timer with dynamic panel colors and simple controls.",
+  "shell-version": [
+    "44",
+    "45",
+    "46"
+  ],
+  "version": 1
+}
